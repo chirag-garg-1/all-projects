@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\chirag.garg\source\repos\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\chirag.garg\source\repos\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\chirag.garg\source\repos\Oops\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\chirag.garg\source\repos\Oops\Oops\obj\Debug\Oops.pdb

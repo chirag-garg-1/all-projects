@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\bin\Debug\Highest palindrome.exe.config
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\bin\Debug\Highest palindrome.exe
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\bin\Debug\Highest palindrome.pdb
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\obj\Debug\Highest palindrome.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\obj\Debug\Highest palindrome.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\obj\Debug\Highest palindrome.exe
+C:\Users\chirag.garg\source\repos\Highest palindrome\Highest palindrome\obj\Debug\Highest palindrome.pdb

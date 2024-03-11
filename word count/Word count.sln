@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS3", "PS3\PS3.csproj", "{5676F1FC-2CDF-4B53-87C1-0FD26104AA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5676F1FC-2CDF-4B53-87C1-0FD26104AA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5676F1FC-2CDF-4B53-87C1-0FD26104AA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5676F1FC-2CDF-4B53-87C1-0FD26104AA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5676F1FC-2CDF-4B53-87C1-0FD26104AA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09734EA-BD93-4C31-B912-3FC713D39E99}
+	EndGlobalSection
+EndGlobal

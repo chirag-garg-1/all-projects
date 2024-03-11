@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\bin\Debug\LInqproblem4.exe.config
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\bin\Debug\LInqproblem4.exe
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\bin\Debug\LInqproblem4.pdb
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\obj\Debug\LInqproblem4.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\obj\Debug\LInqproblem4.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\obj\Debug\LInqproblem4.exe
+C:\Users\chirag.garg\source\repos\LInqproblem4\LInqproblem4\obj\Debug\LInqproblem4.pdb

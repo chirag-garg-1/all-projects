@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\bin\Debug\Asset_Mangment.exe.config
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\bin\Debug\Asset_Mangment.exe
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\bin\Debug\Asset_Mangment.pdb
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\obj\Debug\Asset_Mangment.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\obj\Debug\Asset_Mangment.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\obj\Debug\Asset_Mangment.exe
+C:\Users\chirag.garg\source\repos\Asset_Mangment\Asset_Mangment\obj\Debug\Asset_Mangment.pdb

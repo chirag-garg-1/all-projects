@@ -1,0 +1,31 @@
+﻿@model StringOccurrence.Models.Mymodel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <h2>Welcome To My MVC App</h2>
+</div>
+
+@using (Html.BeginForm("FindNthOccurrence", "Home", FormMethod.Post))
+ {
+    <div>
+        @Html.LabelFor(m=>m.InputString,"Enter a String")
+        @Html.TextBoxFor(m=>m.InputString)
+    </div>
+
+    <div>
+        @Html.LabelFor(m=>m.OccurrencePosition,"Enter Occurrence Number")
+        @Html.TextBoxFor(m=>m.OccurrencePosition)
+    </div>
+
+    <button type = "submit">Find Nth Occurence</button>
+ }
+<div>
+    @if (ViewBag.ResultMessage != null)
+            {
+                <p>@ViewBag.ResultMessage</p>
+            }
+
+</div>
+

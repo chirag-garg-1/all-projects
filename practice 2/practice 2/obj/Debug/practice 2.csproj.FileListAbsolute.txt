@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\bin\Debug\practice 2.exe.config
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\bin\Debug\practice 2.exe
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\bin\Debug\practice 2.pdb
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\obj\Debug\practice 2.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\obj\Debug\practice 2.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\obj\Debug\practice 2.exe
+C:\Users\chirag.garg\source\repos\practice 2\practice 2\obj\Debug\practice 2.pdb

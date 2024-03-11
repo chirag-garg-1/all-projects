@@ -1,0 +1,48 @@
+﻿@model LibraryManagementSystem.Models.StudentModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>
+        Student login
+        <br />
+    </h2>
+    @using (Html.BeginForm("StudentLogin", "Student", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Username, "Enter the Username")
+            @Html.TextBoxFor(m => m.Username)
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.Password, "Enter the Password")
+            @Html.TextBoxFor(m => m.Password)
+
+        </div>
+        <br />
+        <div>
+            <button type="submit" class="btn">Login</button>
+            <a href='@Url.Action("Index","Home")'>
+                <input type='button' value='Main Menu' />
+            </a>
+        </div>
+    }
+    <br />
+    @if (TempData["Message"] != null)
+    {
+        <p class="text-success">@TempData["Message"]</p>
+    }
+    @*<a href='@Url.Action("Dashboard","Student")'>
+            <input type='button' value='Login' />
+        </a>*@
+</body>
+</html>
+

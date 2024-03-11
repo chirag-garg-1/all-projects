@@ -1,0 +1,54 @@
+﻿@model LibraryManagementSystem.Models.IssuedBook
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Book Issue</h2>
+    @using (Html.BeginForm("BookIssue", "Librarian", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Id, "Book Issue ID")
+            @Html.TextBoxFor(m => m.Id)
+
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.StudentId, "Enter the ID of Student")
+            @Html.TextBoxFor(m => m.StudentId)
+
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.BookId, "Enter the Book ID")
+            @Html.TextBoxFor(m => m.BookId)
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.IssueDate, "Enter the Date Of Issue")
+            @Html.TextBoxFor(m => m.IssueDate)
+        </div>
+        <br />
+        <div>
+            <button type="submit" class="btn">Issue the Book</button>
+            <a href='@Url.Action("Dashboard","Librarian")'>
+                <input type='button' value='Go To Dashboard' />
+            </a>
+            <a href='@Url.Action("Index","Home")'>
+                <input type='button' value='Main Menu' />
+            </a>
+        </div>
+    }
+    @if (TempData["Message"] != null)
+    {
+        <p class="text-success">@TempData["Message"]</p>
+    }
+</body>
+</html>

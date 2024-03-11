@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\bin\Debug\Secondlargest.exe.config
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\bin\Debug\Secondlargest.exe
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\bin\Debug\Secondlargest.pdb
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\obj\Debug\Secondlargest.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\obj\Debug\Secondlargest.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\obj\Debug\Secondlargest.exe
+C:\Users\chirag.garg\source\repos\Secondlargest\Secondlargest\obj\Debug\Secondlargest.pdb

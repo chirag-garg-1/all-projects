@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\bin\Debug\Practice Question.exe.config
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\bin\Debug\Practice Question.exe
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\bin\Debug\Practice Question.pdb
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\obj\Debug\Practice Question.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\obj\Debug\Practice Question.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\obj\Debug\Practice Question.exe
+C:\Users\chirag.garg\source\repos\Practice Question\Practice Question\obj\Debug\Practice Question.pdb

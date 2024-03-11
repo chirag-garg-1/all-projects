@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\bin\Debug\Banking System 2.exe.config
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\bin\Debug\Banking System 2.exe
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\bin\Debug\Banking System 2.pdb
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\obj\Debug\Banking System 2.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\obj\Debug\Banking System 2.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\obj\Debug\Banking System 2.exe
+C:\Users\chirag.garg\source\repos\Banking System 2\Banking System 2\obj\Debug\Banking System 2.pdb

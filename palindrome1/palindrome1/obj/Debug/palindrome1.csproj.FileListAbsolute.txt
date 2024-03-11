@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\bin\Debug\palindrome1.exe.config
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\bin\Debug\palindrome1.exe
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\bin\Debug\palindrome1.pdb
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\obj\Debug\palindrome1.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\obj\Debug\palindrome1.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\obj\Debug\palindrome1.exe
+C:\Users\chirag.garg\source\repos\palindrome1\palindrome1\obj\Debug\palindrome1.pdb

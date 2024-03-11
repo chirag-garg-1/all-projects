@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\obj\Debug\Anagrams1.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\obj\Debug\Anagrams1.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\bin\Debug\Anagrams1.exe.config
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\bin\Debug\Anagrams1.exe
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\bin\Debug\Anagrams1.pdb
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\obj\Debug\Anagrams1.exe
+C:\Users\chirag.garg\source\repos\Anagrams1\Anagrams1\obj\Debug\Anagrams1.pdb

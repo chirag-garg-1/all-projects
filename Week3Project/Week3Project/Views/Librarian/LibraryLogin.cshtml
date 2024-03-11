@@ -1,0 +1,29 @@
+﻿@model Week3Project.Models.LibrarionLoginModel
+
+@{
+    Layout = null;
+}
+
+<h2>Library Login</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+@using (Html.BeginForm("LibraryLogin", "Librarian", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Username, "Username:")
+        @Html.TextBoxFor(model => model.Username, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password, "Password:")
+        @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+}

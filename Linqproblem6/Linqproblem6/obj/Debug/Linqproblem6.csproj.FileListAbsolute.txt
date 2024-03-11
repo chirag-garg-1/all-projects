@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\bin\Debug\Linqproblem6.exe.config
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\bin\Debug\Linqproblem6.exe
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\bin\Debug\Linqproblem6.pdb
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\obj\Debug\Linqproblem6.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\obj\Debug\Linqproblem6.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\obj\Debug\Linqproblem6.exe
+C:\Users\chirag.garg\source\repos\Linqproblem6\Linqproblem6\obj\Debug\Linqproblem6.pdb

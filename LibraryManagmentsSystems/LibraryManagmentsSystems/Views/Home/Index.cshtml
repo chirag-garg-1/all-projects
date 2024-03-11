@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>
+        Select Your Role
+        <br />
+    </h2>
+    <div>
+        @Html.ActionLink("Librarian", "Login", "Librarian")
+    </div>
+    <br />
+    <div>
+        @Html.ActionLink("Student", "StudentLogin", "Student")
+    </div>
+</body>
+</html>

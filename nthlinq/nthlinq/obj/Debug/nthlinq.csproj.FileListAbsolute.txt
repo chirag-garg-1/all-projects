@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\bin\Debug\nthlinq.exe.config
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\bin\Debug\nthlinq.exe
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\bin\Debug\nthlinq.pdb
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\obj\Debug\nthlinq.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\obj\Debug\nthlinq.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\obj\Debug\nthlinq.exe
+C:\Users\chirag.garg\source\repos\nthlinq\nthlinq\obj\Debug\nthlinq.pdb

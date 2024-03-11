@@ -1,0 +1,14 @@
+C:\Users\chirag.garg\source\repos\PS3\PS3\bin\Debug\PS3.exe.config
+C:\Users\chirag.garg\source\repos\PS3\PS3\bin\Debug\PS3.exe
+C:\Users\chirag.garg\source\repos\PS3\PS3\bin\Debug\PS3.pdb
+C:\Users\chirag.garg\source\repos\PS3\PS3\obj\Debug\PS3.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\PS3\PS3\obj\Debug\PS3.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\PS3\PS3\obj\Debug\PS3.exe
+C:\Users\chirag.garg\source\repos\PS3\PS3\obj\Debug\PS3.pdb
+C:\Users\chirag.garg\source\repos\word count\PS3\bin\Debug\PS3.exe.config
+C:\Users\chirag.garg\source\repos\word count\PS3\bin\Debug\PS3.exe
+C:\Users\chirag.garg\source\repos\word count\PS3\bin\Debug\PS3.pdb
+C:\Users\chirag.garg\source\repos\word count\PS3\obj\Debug\PS3.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\word count\PS3\obj\Debug\PS3.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\word count\PS3\obj\Debug\PS3.exe
+C:\Users\chirag.garg\source\repos\word count\PS3\obj\Debug\PS3.pdb

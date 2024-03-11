@@ -1,0 +1,58 @@
+﻿@model Week3Project.Models.IssueDateModel
+
+@{
+    Layout = null;
+}
+
+<h2>Issue Date</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@using (Html.BeginForm("IssueDate", "YourControllerName", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.IssueDate, "Issue Date:")
+        @Html.TextBoxFor(model => model.IssueDate, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.IssueDate)
+    </div>
+
+    <!-- Add more fields as needed -->
+
+    <div class="form-group">
+        <input type="submit" value="Add Issue Date" class="btn btn-primary" />
+    </div>
+}
+
+@if (TempData["IssueDateList"] != null)
+{
+    <h3>Issue Dates</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Issue Date</th>
+                <!-- Add more table headers as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var issueDate in (IEnumerable<Week3Project.Models.IssueDateModel>)TempData["IssueDateList"])
+            {
+                <tr>
+                    <td>@issueDate.IssueDate</td>
+                    <!-- Add more table cells as needed -->
+                </tr>
+            }
+        </tbody>
+    </table>
+}

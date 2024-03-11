@@ -1,0 +1,5 @@
+﻿Build started at 13:54...
+1>------ Build started: Project: WebApplication3, Configuration: Debug Any CPU ------
+1>  WebApplication3 -> C:\Users\chirag.garg\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 13:54 and took 01.403 seconds ==========

@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\bin\Debug\Reverse word.exe.config
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\bin\Debug\Reverse word.exe
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\bin\Debug\Reverse word.pdb
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\obj\Debug\Reverse word.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\obj\Debug\Reverse word.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\obj\Debug\Reverse word.exe
+C:\Users\chirag.garg\source\repos\Reverse word\Reverse word\obj\Debug\Reverse word.pdb

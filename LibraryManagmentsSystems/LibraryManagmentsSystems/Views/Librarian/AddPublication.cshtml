@@ -1,0 +1,38 @@
+﻿
+@model LibraryManagementSystem.Models.Publication
+
+@{
+    ViewBag.Title = "Add Publication";
+}
+
+<h2>Add Publication</h2>
+
+@using (Html.BeginForm("AddPublication", "Librarian", FormMethod.Post))
+{
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Title)
+        @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Branch)
+        @Html.DropDownList("Branch", new SelectList(ViewBag.Branches as List<string>), "Select Branch", new { @class = "form-control" })
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Add Publication" class="btn btn-primary" />
+        <a href='@Url.Action("Dashboard","Librarian")'>
+            <input type='button' value='Go To Dashboard' />
+        </a>
+        <a href='@Url.Action("Index","Home")'>
+            <input type='button' value='Main Menu' />
+        </a>
+    </div>
+    <br />
+
+}
+@if (TempData["Message"] != null)
+{
+    <p class="text-success">@TempData["Message"]</p>
+}

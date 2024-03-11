@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Welcome To The Student Dashboard !</h2><br />
+    <h3>What do You Want to Do ?</h3><br />
+    <div>
+        @Html.ActionLink("Book Reports", "BookReport", "Student")
+    </div>
+    <br />
+    <div>
+        @Html.ActionLink("Account", "Account", "Student")
+    </div>
+    <br />
+
+    <div>
+        <a href='@Url.Action("Index","Home")'>
+            <input type='button' value='Main Menu' />
+        </a>
+    </div>
+</body>
+</html>

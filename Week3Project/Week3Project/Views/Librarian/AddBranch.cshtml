@@ -1,0 +1,36 @@
+﻿@model Week3Project.Models.BranchModel
+
+@{
+    Layout = null;
+}
+
+<h2>Add Branch</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@using (Html.BeginForm("AddBranch", "YourControllerName", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name, "Branch Name:")
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+    <!-- Add more fields as needed -->
+
+    <div class="form-group">
+        <input type="submit" value="Add Branch" class="btn btn-primary" />
+    </div>
+}

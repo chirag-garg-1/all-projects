@@ -1,0 +1,54 @@
+﻿@model LibraryManagementSystem.Models.Book
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Stock Addition</h2>
+    <br />
+    @using (Html.BeginForm("AddStock", "Librarian", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Id, "Enter the Book Id")
+            @Html.TextBoxFor(m => m.Id)
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.Title, "Book Title ")
+            @Html.TextBoxFor(m => m.Title)
+        </div>
+        <br />
+        <div>
+            @Html.LabelFor(m => m.Stock, "Stock ")
+            @Html.TextBoxFor(m => m.Stock)
+        </div>
+        <br />
+        <div class="form-group">
+            @Html.LabelFor(model => model.Branch)
+            @Html.DropDownList("Branch", new SelectList(ViewBag.Branches as List<string>), "Select Branch", new { @class = "form-control" })
+        </div>
+        <br />
+        <div>
+            <button type="submit" class="btn">Add Stock</button>
+            <a href='@Url.Action("Dashboard","Librarian")'>
+                <input type='button' value='Go To Dashboard' />
+            </a>
+            <a href='@Url.Action("Index","Home")'>
+                <input type='button' value='Main Menu' />
+            </a>
+        </div>
+    }
+    @if (TempData["Message"] != null)
+    {
+        <p class="text-success">@TempData["Message"]</p>
+    }
+
+</body>
+</html>

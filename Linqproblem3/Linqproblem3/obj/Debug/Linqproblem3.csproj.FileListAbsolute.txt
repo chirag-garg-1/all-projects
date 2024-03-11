@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\bin\Debug\Linqproblem3.exe.config
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\bin\Debug\Linqproblem3.exe
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\bin\Debug\Linqproblem3.pdb
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\obj\Debug\Linqproblem3.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\obj\Debug\Linqproblem3.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\obj\Debug\Linqproblem3.exe
+C:\Users\chirag.garg\source\repos\Linqproblem3\Linqproblem3\obj\Debug\Linqproblem3.pdb

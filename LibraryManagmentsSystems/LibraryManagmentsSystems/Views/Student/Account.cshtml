@@ -1,0 +1,40 @@
+﻿@model LibraryManagementSystem.Models.StudentModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Your Profile : </h2>
+    <br />
+    <table style="font-family:Arial">
+        <tr>
+            <td>Student ID:</td>
+            <td>@Model.Id </td>
+        </tr>
+        <tr>
+            <td>Name:</td>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td>Username: </td>
+            <td>@Model.Username</td>
+        </tr>
+    </table>
+    <br />
+    <div>
+        <a href='@Url.Action("StudentDashboard","Student")'>
+            <input type='button' value='Go To Dashboard' />
+        </a>
+        <a href='@Url.Action("Index","Home")'>
+            <input type='button' value='Main Menu' />
+        </a>
+    </div>
+</body>
+</html>

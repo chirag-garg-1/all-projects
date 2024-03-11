@@ -1,0 +1,38 @@
+﻿@model LibraryManagementSystem.Models.Branch
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Adding a New Branch</h2>
+    @using (Html.BeginForm("AddBranch", "Librarian", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(m => m.Name, "Add a New Branch")
+            @Html.TextBoxFor(m => m.Name)
+        </div>
+        <br />
+        <div>
+            <button type="submit" class="btn">Add Branch</button>
+            <a href='@Url.Action("Dashboard","Librarian")'>
+                <input type='button' value='Go To Dashboard' />
+            </a>
+            <a href='@Url.Action("Index","Home")'>
+                <input type='button' value='Main Menu' />
+            </a>
+        </div>
+
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <p class="text-success">@TempData["SuccessMessage"]</p>
+    }
+</body>
+</html>

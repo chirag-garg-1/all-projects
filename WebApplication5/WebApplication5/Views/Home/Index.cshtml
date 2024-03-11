@@ -1,0 +1,25 @@
+﻿@model StringOccurrence.Models.StringOccurrenceModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find Nth Occurrence of "the"</title>
+</head>
+<body>
+    <h2>Find Nth Occurrence of "the"</h2>
+    @using (Html.BeginForm("FindOccurrence", "StringOccurrence", FormMethod.Post))
+    {
+        @Html.LabelFor(m => m.InputString)
+        @Html.TextBoxFor(m => m.InputString)<br />
+
+        @Html.LabelFor(m => m.OccurrenceNumber)
+        @Html.TextBoxFor(m => m.OccurrenceNumber, new { type = "number" })<br />
+
+        <input type="submit" value="Find Occurrence" />
+    }
+
+    <div>
+        @Model.OccurrenceResult
+    </div>
+</body>
+</html>

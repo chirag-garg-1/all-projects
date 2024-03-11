@@ -1,0 +1,29 @@
+﻿@model WebApplication3.Models.MyModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find Second Largest Number</title>
+</head>
+<body>
+    <h1>Find Second Largest Number</h1>
+
+    @using (Html.BeginForm("CalculateSecondLargest", "Home", FormMethod.Post))
+    {
+        <label for="numbers">Enter numbers (comma-separated):</label>
+        <input type="text" id="numbers" name="Numbers" />
+        <button type="submit">Find Second Largest</button>
+    }
+
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <p>@ViewBag.Message</p>
+    }
+
+    @if (Model.SecondLargest.HasValue)
+    {
+        <p>The second largest number is: @Model.SecondLargest</p>
+    }
+
+</body>
+</html>

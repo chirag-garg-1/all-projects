@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\obj\Debug\Banking_Assessment.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\obj\Debug\Banking_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\bin\Debug\Banking_Assessment.exe.config
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\bin\Debug\Banking_Assessment.exe
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\bin\Debug\Banking_Assessment.pdb
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\obj\Debug\Banking_Assessment.exe
+C:\Users\chirag.garg\source\repos\Banking_Assessment\Banking_Assessment\obj\Debug\Banking_Assessment.pdb

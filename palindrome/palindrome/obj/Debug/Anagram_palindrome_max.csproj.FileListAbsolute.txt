@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\bin\Debug\Anagram_palindrome_max.exe.config
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\bin\Debug\Anagram_palindrome_max.exe
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\bin\Debug\Anagram_palindrome_max.pdb
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\obj\Debug\Anagram_palindrome_max.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\obj\Debug\Anagram_palindrome_max.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\obj\Debug\Anagram_palindrome_max.exe
+C:\Users\chirag.garg\source\repos\Anagram_palindrome_max\Anagram_palindrome_max\obj\Debug\Anagram_palindrome_max.pdb

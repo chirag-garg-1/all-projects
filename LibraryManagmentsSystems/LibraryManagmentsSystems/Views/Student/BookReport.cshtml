@@ -1,0 +1,44 @@
+﻿@model LibraryManagementSystem.Models.IssuedBook
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library Management System</title>
+</head>
+<body>
+    <h2>Book Report</h2>
+    <br />
+    <table style="font-family:Arial">
+        <tr>
+            <td>Student ID:</td>
+            <td>@Model.Id </td>
+        </tr>
+        <tr>
+            <td>Student Id: </td>
+            <td>@Model.StudentId</td>
+        </tr>
+        <tr>
+            <td>Book Id: </td>
+            <td>@Model.BookId</td>
+        </tr>
+        <tr>
+            <td>Book Issue Date: </td>
+            <td>@Model.IssueDate</td>
+        </tr>
+        <tr>
+            <td>Book Return Date: </td>
+            <td>@Model.ReturnDate</td>
+        </tr>
+    </table>
+    <br />
+    @if (TempData["Message"] != null)
+    {
+        <p class="text-success">@TempData["Message"]</p>
+    }
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿@model Week3Project.Models.DashBoard
+
+@{
+    Layout = null;
+}
+
+<h2>Dashboard</h2>
+
+<div class="container">
+    <h3>Publications</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <!-- Add more headers if needed -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var publication in Model.Publications)
+            {
+                <tr>
+                    <td>@publication.Title</td>
+                    <td>@publication.Author</td>
+                    <!-- Add more cells if needed -->
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Repeat the above pattern for other sections such as Students, Books, Branches, IssueDates, ReturnDates -->
+
+</div>

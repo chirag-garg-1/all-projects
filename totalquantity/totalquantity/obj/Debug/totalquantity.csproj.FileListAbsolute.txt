@@ -1,0 +1,7 @@
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\bin\Debug\totalquantity.exe.config
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\bin\Debug\totalquantity.exe
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\bin\Debug\totalquantity.pdb
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\obj\Debug\totalquantity.csproj.AssemblyReference.cache
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\obj\Debug\totalquantity.csproj.CoreCompileInputs.cache
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\obj\Debug\totalquantity.exe
+C:\Users\chirag.garg\source\repos\totalquantity\totalquantity\obj\Debug\totalquantity.pdb
